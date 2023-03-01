@@ -1,6 +1,6 @@
 # Modern Digital Agency Example Website Using jQuery
 
-This is a Digital Agency example website. (front-end only).
+This project is an example digital agency website using jQuery. The site highlights the digital agency's skills, with a modern front-end allowing users to see all the services and more.
 
 Technologies Used:
 - jQuery
