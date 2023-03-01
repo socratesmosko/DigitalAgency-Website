@@ -1,4 +1,4 @@
-# Digital Agency Example Website
+# Modern Digital Agency Example Website
 
 This is a Digital Agency example website. (front-end only).
 
