@@ -1,9 +1,9 @@
-# Modern Digital Agency Example Website
+# Modern Digital Agency Example Website Using jQuery
 
 This is a Digital Agency example website. (front-end only).
 
 Technologies Used:
-- Jquery
+- jQuery
 - HTML
 - CSS (Bootstrap)
 - JavaScript
