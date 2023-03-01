@@ -1,12 +1,12 @@
-# DigitalAgency-Website
+# Digital Agency Example Website
 
 This is a Digital Agency example website. (front-end only).
 
 Technologies Used:
-• React.js
-• HTML
-• CSS
-• JavaScript
+- React.js
+- HTML
+- CSS
+- JavaScript
 
 # Features
 - Fully Responsive
