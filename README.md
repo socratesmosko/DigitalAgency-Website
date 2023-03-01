@@ -3,7 +3,7 @@
 This is a Digital Agency example website. (front-end only).
 
 Technologies Used:
-- React.js
+- Jquery
 - HTML
 - CSS
 - JavaScript
