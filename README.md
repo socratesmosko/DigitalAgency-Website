@@ -5,7 +5,7 @@ This is a Digital Agency example website. (front-end only).
 Technologies Used:
 - Jquery
 - HTML
-- CSS
+- CSS (Bootstrap)
 - JavaScript
 
 # Features
